@@ -1,4 +1,6 @@
 Nginx Upstream Fair Proxy Load Balancer
+
+**( compatible with nginx 1.11.6+ & with dynamic module capability ) **
 --
 
 Description:
